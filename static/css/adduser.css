@@ -1,0 +1,9 @@
+.box {
+  width: 100%;
+  background: #fff;
+}
+.box .add-box {
+  margin: 50px auto;
+  width: 50%;
+}
+/*# sourceMappingURL=adduser.css.map */

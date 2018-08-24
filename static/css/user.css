@@ -1,0 +1,18 @@
+.box {
+  width: 100%;
+  background: #fff;
+}
+.box .user-list {
+  text-align: center;
+  margin: 50px auto 0;
+  width: 70%;
+}
+.box .user-list .pages {
+  margin: 20px auto;
+}
+.box .user-list .img img {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+}
+/*# sourceMappingURL=user.css.map */
